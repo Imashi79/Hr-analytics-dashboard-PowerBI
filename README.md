@@ -40,14 +40,6 @@ This project is an interactive HR Analytics Dashboard built in Power BI. It prov
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository or download the `.pbix` file
-2. Open the file in **Power BI Desktop**
-3. Refresh the data to explore the visuals and interactions
-
----
-
 ## ☁️ Published Report
 
 This dashboard has also been published to the **Power BI Service** for online sharing and collaboration.
@@ -71,3 +63,11 @@ HR-PowerBI-Dashboard/
 │
 └── data set/ # Sample HR dataset
 ```
+
+## 🚀 Getting Started
+
+1. Clone the repository or download the `.pbix` file
+2. Open the file in **Power BI Desktop**
+3. Refresh the data to explore the visuals and interactions
+
+---
