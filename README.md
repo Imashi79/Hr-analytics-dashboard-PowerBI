@@ -8,7 +8,7 @@ This project is an interactive HR Analytics Dashboard built in Power BI. It prov
 
 - **3 Report Pages:**
 
--- **🏠 Home**: High-level overview with employee count, gender split, and navigation  
+- **🏠 Home**: High-level overview with employee count, gender split, and navigation  
 - **📋 Details**: Departmental breakdowns and employee-level metrics  
 - **⚙️ Action**: Flags for retrenchment and promotion readiness
 
