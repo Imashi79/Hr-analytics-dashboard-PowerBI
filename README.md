@@ -54,8 +54,7 @@ This project is an interactive HR Analytics Dashboard built in Power BI. It prov
 
 This dashboard has also been published to the **Power BI Service** for online sharing and collaboration.
 
-### 🔗 Live Report (Optional)
-> *(If public, include the link below)*  
+### 🔗 Live Report 
 > [View Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/3e9fd093-3b6c-43ec-9ee5-8b5fb74e6cb0/f412a3322bd2d453187a?experience=power-bi)
 
 ---
